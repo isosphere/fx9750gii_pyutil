@@ -10,4 +10,4 @@ Here are some limitations of using micro Python on the platform that I've notice
 - it's capable of about 4 FPS without draw artifacts - use the attached `sleep()` function to sleep at least `0.25` sec to let a frame rest long enough to be seen clearly. This is provided in the variable `MIN_FRAME_TIME`
 - no table, sheet, other any other kind of memory access
 
-[^1]: "Draw Function color Argument", Page 14-21, fx-9750GIII_Soft_v360_EN.pdf
+[^1]: "Draw Function color Argument", Page 14-21, [fx-9750GIII_Soft_v360_EN.pdf](https://support.casio.com/storage/en/manual/pdf/EN/004/fx-9750GIII_Soft_v360_EN.pdf)
