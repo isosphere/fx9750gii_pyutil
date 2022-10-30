@@ -8,3 +8,4 @@ Here are some limitations of using micro Python on the platform that I've notice
 - you can draw a pixel, but you can't undraw it; you have to clear the screen.
 - screen changes are only visible after running `casioplot.show_screen()`
 - it's capable of about 4 FPS without draw artifacts - use the attached `sleep()` function to sleep at least `0.25` sec to let a frame rest long enough to be seen clearly. This is provided in the variable `MIN_FRAME_TIME`
+- no table, sheet, other any other kind of memory access
