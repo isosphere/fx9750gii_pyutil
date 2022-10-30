@@ -7,3 +7,4 @@ Here are some limitations of using micro Python on the platform that I've notice
 - no time functionality at all, I've attempted to improve this with a very poor `sleep()` function that just iterates enough times based on me using a stopwatch
 - you can draw a pixel, but you can't undraw it; you have to clear the screen.
 - screen changes are only visible after running `casioplot.show_screen()`
+- it's capable of about 4 FPS without draw artifacts
