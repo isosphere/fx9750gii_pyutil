@@ -1,5 +1,5 @@
 # fx9750gii_pyutil
-(micro)Python 1.9.4 utilities for running code on the fx-9750GIII graphing calculator by Casio.
+(micro)Python 1.9.4 utilities and notes for running code on the fx-9750GIII graphing calculator by Casio.
 Developed on OS 03.60.3200
 
 Here are some limitations of using micro Python on the platform that I've noticed:
